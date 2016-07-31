@@ -1,0 +1,14 @@
+layout_spectrum: 0.3379882
+typography_spectrum: 0.9256895
+color:
+  saturation: 0.4618011
+  lightness: 0.9950935
+  brandStrength: 0.03888375
+  rhythmicContrast: 0.4353837
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: 'Big Cyprus '
